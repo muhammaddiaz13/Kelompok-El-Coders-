@@ -2,9 +2,11 @@ Nama Project     : Game Store
 
 Nama Kelompok    : El-Coders
 
-Anggota Kelompok : Muhammad Diaz William Bevan (241401088)
+Anggota Kelompok : 
 
-                     Jefri Al-Bukhori (241401142)
+                   Muhammad Diaz William Bevan (241401088)
+
+                   Jefri Al-Bukhori (241401142)
                    
 Link G.Drive     : 
 
