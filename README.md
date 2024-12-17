@@ -4,7 +4,7 @@ Nama Kelompolk   : El-Coders
 
 Anggota Kelompok : Muhammad Diaz William Bevan (241401088)
 
-                   Jefri Al-Bukhori (241401142)
+                    Jefri Al-Bukhori (241401142)
                    
 Link G.Drive     : 
 
